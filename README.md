@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hugo (@hrobijns)
-- 🚀 I’m currently studying Physics (Natural Sciences) at Cambridge University, going into my third year.
+- 🚀 I’m currently studying Physics (Natural Sciences) at Cambridge University, in my third year.
 - 👀 I’m particularly interested in science informed ML/AI - but it's still early and I'm open-minded!
 - 📫 hugojfrobijns@gmail.com
